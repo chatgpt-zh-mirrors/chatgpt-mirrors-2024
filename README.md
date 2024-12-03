@@ -2,7 +2,7 @@
 
 欢迎来到 **ChatGPT 中文镜像** 仓库！我们致力于为用户提供免费、无需登录即可使用的 ChatGPT 在线版本。通过我们的多个高质量镜像网站，您可以轻松访问 ChatGPT 的强大功能，享受流畅的中文对话体验。
 
-## 🌐 官方中文镜像网站
+## 🌐 官方中文镜像网站.
 
 - [SoruXGPT 中文镜像](https://www.soruxgpt.top/282.html)
 - [DK82 中文镜像](https://www.dk82.com/17.html)
